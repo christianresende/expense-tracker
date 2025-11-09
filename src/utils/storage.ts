@@ -29,3 +29,4 @@ export const clearExpenses = (): void => {
         console.error('Erro ao limpar despesas do localStorage:', error);
     }
 };
+

@@ -61,3 +61,4 @@ export const searchExpenses = (expenses: Expense[], searchTerm: string): Expense
         expense.category.toLowerCase().includes(term)
     );
 };
+

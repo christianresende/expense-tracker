@@ -27,3 +27,4 @@ export const CATEGORIES: ExpenseCategory[] = [
     { id: 'viagens', name: 'Viagens', icon: '✈️', color: '#EC7063' },
     { id: 'outros', name: 'Outros', icon: '📦', color: '#95A5A6' },
 ];
+
